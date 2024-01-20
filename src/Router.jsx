@@ -8,8 +8,8 @@ import LoginView from './views/LoginView';
 import RegisterView from './views/RegisterView';
 import ErrorView from './views/ErrorView';
 
-import Navbar from './components/Common/Navbar';
-import Footer from './components/Common/Footer';
+import Navbar from './common/navbar/Navbar';
+import Footer from './common/footer/Footer';
 
 import './App.css'
 

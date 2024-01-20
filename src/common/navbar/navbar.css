@@ -1,0 +1,22 @@
+.custom-navbar{
+background: #103d70ff;
+}
+
+.nav-text {
+    color: #60A9FF;
+    
+}
+
+.nav-text:hover {
+color: #407bbf;
+}
+
+.nav-link.active {
+    color: #82c4ff !important;
+}
+
+
+.iconoHome {
+    width: 100px;
+    border-radius: 50%;
+}
